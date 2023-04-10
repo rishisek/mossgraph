@@ -1,0 +1,115 @@
+{
+  "id1": "aa69@illinois.edu_1_01_mps",
+  "id2": "asmitap2@illinois.edu_1_01_mps",
+  "similarity": 0.6741393114491593,
+  "matches": [
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.cpp",
+      "start1": 12,
+      "end1": 138,
+      "start2": 6,
+      "end2": 73,
+      "tokens": 174
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.cpp",
+      "start1": 170,
+      "end1": 192,
+      "start2": 73,
+      "end2": 86,
+      "tokens": 36
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.cpp",
+      "start1": 147,
+      "end1": 170,
+      "start2": 86,
+      "end2": 100,
+      "tokens": 34
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.cpp",
+      "start1": 199,
+      "end1": 218,
+      "start2": 100,
+      "end2": 110,
+      "tokens": 30
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.h",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.h",
+      "start1": 12,
+      "end1": 31,
+      "start2": 12,
+      "end2": 29,
+      "tokens": 30
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.cpp",
+      "start1": 223,
+      "end1": 236,
+      "start2": 124,
+      "end2": 138,
+      "tokens": 24
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_StickerSheet.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_StickerSheet.cpp",
+      "start1": 173,
+      "end1": 187,
+      "start2": 151,
+      "end2": 160,
+      "tokens": 19
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_StickerSheet.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_StickerSheet.cpp",
+      "start1": 69,
+      "end1": 84,
+      "start2": 21,
+      "end2": 35,
+      "tokens": 17
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_StickerSheet.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_StickerSheet.cpp",
+      "start1": 189,
+      "end1": 198,
+      "start2": 164,
+      "end2": 171,
+      "tokens": 17
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_StickerSheet.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_StickerSheet.cpp",
+      "start1": 205,
+      "end1": 218,
+      "start2": 84,
+      "end2": 93,
+      "tokens": 14
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_Image.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_Image.cpp",
+      "start1": 139,
+      "end1": 142,
+      "start2": 111,
+      "end2": 113,
+      "tokens": 13
+    },
+    {
+      "file1": "aa69@illinois.edu_1_01_mps\\mp_stickers_1_8_90507034_StickerSheet.cpp",
+      "file2": "asmitap2@illinois.edu_1_01_mps\\mp_stickers_1_4_90444609_StickerSheet.cpp",
+      "start1": 47,
+      "end1": 68,
+      "start2": 64,
+      "end2": 73,
+      "tokens": 13
+    }
+  ]
+}
